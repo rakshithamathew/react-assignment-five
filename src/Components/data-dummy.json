@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Jenny Chan",
+      "age": "30",
+      "course": "HTML",
+      "batch": "NOV"
+    },
+    {
+      "id": 2,
+      "name": "Jessica warren",
+      "age": "24",
+      "course": "CSS",
+      "batch": "SEPT"
+    },
+    {
+      "id": 3,
+      "name": "Tony Frank",
+      "age": "19",
+      "course": "JAVA",
+      "batch": "OCT"
+    },
+    {
+      "id": 4,
+      "name": "Jeremy Clark",
+      "age": "33",
+      "course": "VUE",
+      "batch": "AUG"
+    },
+    {
+      "id": 5,
+      "name": "Raymond Edwards",
+      "age": "29",
+      "course": "REACT",
+      "batch": "DEC"
+    }
+  ]
+  
