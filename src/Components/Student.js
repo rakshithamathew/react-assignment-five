@@ -5,7 +5,7 @@ import { Link, Outlet, useNavigate } from "react-router-dom";
 
 function Student() {
   const navi = useNavigate();
-  const [data , setData] = useState(info);
+  const [data ] = useState(info);
 
   return (
     <>
